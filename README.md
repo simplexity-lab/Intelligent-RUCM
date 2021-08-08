@@ -1,5 +1,5 @@
 # Intelligent-RUCM：Towards Efficient Use Case Modeling with Automated Domain Classification and Term Recommendation
-- [Intelligent-RUCM：Towards Efficient Use Case Modeling with Automated Domain Classification and Term Recommendation]  
+- [Intelligent-RUCM：Towards Efficient Use Case Modeling with Automated Domain Classification and Term Recommendation](#rucmbot--a-tool-based-on-rucm)
   - [1. Contributions](#1-contributions)
   - [2. Overview](#2-overview)
   - [3. Features of RUCMBot Tool](#3-features-of-rucmbot-tool)
