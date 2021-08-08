@@ -14,5 +14,6 @@
 ## 3. Features of RUCMBot Tool
 
 #### 1. Domain Classifier
+<img src="./figures/domain classifier.gif" alt="overview" width="800" align="bottom" />
 #### 2. Domain Terminology Recommendation
 #### 3. Domain Terminology Dictionary Auto-Construction
