@@ -10,10 +10,15 @@
 ## 1. Contributions
 
 ## 2. Overview
+<img src="./figure/overview.png" alt="overview" width="800" align="bottom" />
 
 ## 3. Features of RUCMBot Tool
 
 #### 1. Domain Classifier
-<img src="./figures/domain classifier.gif" alt="overview" width="800" align="bottom" />
+<img src="./figure/domain classifier.gif" alt="overview" width="800" align="bottom" />
+
 #### 2. Domain Terminology Recommendation
+<img src="./figure/term recommendation.gif" alt="overview" width="800" align="bottom" />
+
 #### 3. Domain Terminology Dictionary Auto-Construction
+<img src="./figure/domain terminology dictionary.png" alt="overview" width="800" align="bottom" />
