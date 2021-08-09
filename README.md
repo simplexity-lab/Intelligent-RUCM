@@ -34,6 +34,6 @@ RUCM can achieve real-time domain classification based on users input. the index
 
 #### 3. Domain Terminology Dictionary Auto-Construction
 
-This is part of the domain terminologies dictionary including Domain 0  (Home Automation), Domain 1 (Energy Production) and Domain 2 (Autonomous Driving). Along with the continuous use of RUCM for use case modeling, the dictionary will be self-updating.
+This is part of the domain terminologies dictionary, including Domain 0  (Home Automation), Domain 1 (Energy Production) and Domain 2 (Autonomous Driving). Along with the continuous use of RUCM for use case modeling, the dictionary will be self-updating.
 
 <img src="./figure/domain terminology dictionary.png" alt="overview" width="800" align="bottom" />
