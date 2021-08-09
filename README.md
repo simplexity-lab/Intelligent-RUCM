@@ -9,6 +9,10 @@
       
 ## 1. Contributions
 
+1. Designing a model to classify domains automatically at run time when RUCM is used;   
+2. Extending OpenNLP Chunker for extracting domain terms to alleviate the problem of the low recall rate in extracting verb phrase (VP) chunks;   
+3. Developing a tool, named RUCMBot, which integrates with RUCM to enable efficient use case modeling.
+
 ## 2. Overview
 <img src="./figure/overview.png" alt="overview" width="800" align="bottom" />
 
