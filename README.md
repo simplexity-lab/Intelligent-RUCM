@@ -22,7 +22,7 @@ An overview of RUCMBot is shown here. It contains two main components: recommend
 ## 3. Features of RUCMBot Tool
 
 #### 1. Domain Classifier
-RUCM can achieve real-time domain classification based on users input. the index =0 means the use case specification belongs to the domain marked 0 (the labels will be reassigned after re-clustering). 
+RUCMBot can achieve real-time domain classification based on users input. the index =0 means the use case specification belongs to the domain marked 0 (the labels will be reassigned after re-clustering). 
 
 <img src="./figure/domain classifier.gif" alt="overview" width="800" align="bottom" />
 
